@@ -9,6 +9,9 @@ This repository contains the perceptual ratings collected during our user study,
 
 ## 📂 Files and Descriptions
 
+### 📄 `Experimental Audio Sequence`
+- Orders that each participant listen to the four audios.
+
 ### 📄 `Qualtrics Post Survey - Webpage Design`
 - Post-study survey assessing perceptions of webpage design.
 - **Score range**: 1 (strongly disagree) to 7 (strongly agree)
