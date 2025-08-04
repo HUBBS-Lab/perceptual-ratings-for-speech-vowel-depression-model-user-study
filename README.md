@@ -36,7 +36,7 @@ Questions:
 - I can rely on the system to do its best every time I take its advice.
 
 ### 📄 `Qualtrics Post Survey - SUS`  
-**Score range**: 1 (strongly agree) to 5 (strongly disagree) *(reversed from standard SUS)*  
+**Score range**: 1 (strongly disagree) to 5 (strongly agree)
 Questions:
 - I think that I would like to use this system frequently.  
 - I found the system unnecessarily complex.  
@@ -48,10 +48,6 @@ Questions:
 - I found the system very cumbersome to use.  
 - I felt very confident using the system.  
 - I needed to learn a lot of things before I could get going with this system.
-
-### 📄 `SUS_corrected`
-- Processed version of the raw SUS score, but score direction reversed:  
-  1 (strongly disagree) → 5 (strongly agree)
 
 ### 📄 `Qualtrics Post Survey - Webpage Design`  
 **Score range**: 1 (strongly disagree) to 7 (strongly agree)  
