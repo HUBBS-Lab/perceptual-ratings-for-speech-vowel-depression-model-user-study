@@ -12,7 +12,7 @@ Collected for our paper:
 - Audio order for each participant.
 
 ### 📄 `Participant Demographic Info`
-- Age, major, race, gender, Hispanic identity, experimental condition.
+- Age, major, race, gender, Hispanic ethnicity, and experimental condition.
 
 ### 📄 `Qualtrics Between Audio`  
 **Score range**: 1 (strongly disagree) to 5 (strongly agree)  
