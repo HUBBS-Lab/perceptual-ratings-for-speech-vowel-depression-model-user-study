@@ -21,7 +21,7 @@ Questions:
 - This interface was useful for my task.  
 - The task was mentally demanding.
 
-### 📄 `Binary Depression Justification`
+### 📄 `Binary Depression Decision`
 - Binary classification (depressed or not) for each audio (verbal response).  
 - Confidence rating: 1 (low confidence) to 5 (high confidence).
 
